@@ -267,10 +267,10 @@ Week 8    │  Go-Live   │  Phased Production Launch
 
 ## 🔗 Related Projects
 
-- 🤖 [FinPilot AI — LangChain Financial Assistant](https://github.com/dhrumil231/FinPilot-AI) — Hackathon project using OpenAI GPT-4 + Streamlit
-- 📈 [FinAgent — Multi-Agent Financial System (Markowitz MPT)](https://github.com/dhrumil231) — Portfolio optimisation with LangChain agents
-- 🎬 [Netflix Content Strategy Analysis (PostgreSQL)](https://github.com/dhrumil231) — SQL-based content performance analysis
-- 📊 [IBM HR Analytics Tableau Dashboard](https://github.com/dhrumil231) — Attrition and workforce analytics
+- 🤖 [FinPilot AI — LangChain Financial Assistant](https://github.com/dhrumil231/FinPilot_AI) — Hackathon project using OpenAI GPT-4 + Streamlit
+- 📈 [FinAgent — Multi-Agent Financial System (Markowitz MPT)](https://github.com/dhrumil231/FinancialData-Multi-Agents) — Portfolio optimisation with LangChain agents
+- 🎬 [Netflix Content Strategy Analysis (PostgreSQL)](https://github.com/dhrumil231/Netflix-Data-Analysis-Using-PostgreSQL) — SQL-based content performance analysis
+- 📊 [IBM HR Analytics Tableau Dashboard](https://github.com/dhrumil231/IBM_HR_Analytics_Tableau_Dashboard) — Attrition and workforce analytics
 
 ---
 
@@ -281,7 +281,7 @@ MS Engineering Management · Syracuse University, Whitman School of Management (
 Former Senior Business Analyst · Angel One Private Limited (India's 2nd-largest retail stockbroking platform)
 
 [![GitHub](https://img.shields.io/badge/GitHub-dhrumil231-181717?style=flat-square&logo=github)](https://github.com/dhrumil231)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dhrumilshah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhrumil-shah-101853215/)
 
 **Core skills demonstrated in this project:**
 `Requirements Elicitation` · `BRD Writing` · `User Story Authoring` · `Process Mapping (BPMN)` · `Stakeholder Management` · `Gap Analysis` · `RTM` · `Cost-Benefit Analysis` · `Agile BA` · `SaaS Domain Knowledge`
